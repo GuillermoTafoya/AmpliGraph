@@ -7,6 +7,7 @@
 #
 from setuptools import setup, find_packages
 #from ampligraph import __version__ as version
+version = '2.0.1'
 
 setup_params = dict(name='ampligraph',
                     version=version,
