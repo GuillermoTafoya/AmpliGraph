@@ -6,7 +6,7 @@
 #     http://www.apache.org/licenses/LICENSE-2.0
 #
 from setuptools import setup, find_packages
-from ampligraph import __version__ as version
+#from ampligraph import __version__ as version
 
 setup_params = dict(name='ampligraph',
                     version=version,
